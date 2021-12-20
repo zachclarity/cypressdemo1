@@ -1,0 +1,11 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "redirectionLimit": 20,
+  "retries": 5,
+  "watchForFileChanges": true,
+  "screenshotsFolder": "screenshots",
+  "videosFolder": "videos",
+  "video": true,
+  "downloadsFolder": "downloads",
+  "defaultCommandTimeout": 3000
+}
